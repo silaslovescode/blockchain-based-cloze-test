@@ -1,4 +1,6 @@
-# blockchain-based-cloze-test is on the verge of getting the world record for th worlds biggest close  test using  machine learning it is possible to auto generate clozes test .
+![clozechain](https://user-images.githubusercontent.com/107644537/197395907-d18a50d7-edb7-476c-9074-9cde1377f464.jpg)
+
+# clozechain is a blockchain-based-cloze-test game  thats on the verge of getting the world record for the worlds biggest close  test using  machine learning it is possible to auto generate clozes test .
 
 close tests is innovative way of learning by neccesity and  intution . the concept is simple lets use an anerlergy  of a cloze text.
                   
